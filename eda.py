@@ -13,6 +13,11 @@ print(df["Marks"].max())
 
 print("\nLowest Marks:")
 print(df["Marks"].min())
+print("\nMedian Marks:")
+print(df["Marks"].median())
+
+print("\nStandard Deviation:")
+print(df["Marks"].std())
 import matplotlib.pyplot as plt
 
 df.plot(x="Name", y="Marks", kind="bar")
