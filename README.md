@@ -9,6 +9,8 @@ Analysis Performed
 - Calculated Average Marks
 - Calculated Highest Marks
 - Calculated Lowest Marks
+-  Calculated Median Marks
+- Calculated Standard Deviation
 - Created Bar Chart Visualization using Matplotlib
 
 Files Included
